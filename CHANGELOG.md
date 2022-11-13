@@ -6,7 +6,7 @@ This is a full list of changes for each release of bSmart_DRM_Remover_AIO.
 ### Added
  
 ### Changed
- - Created file with English or Italian user interface
+ - Created separate files with English or Italian user interface
  
 ### Fixed
  - Some bugs fixed
