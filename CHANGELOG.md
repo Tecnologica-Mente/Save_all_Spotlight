@@ -1,5 +1,5 @@
 # Change Log
-This is a full list of changes for each release of bSmart_DRM_Remover_AIO.
+This is a full list of changes for each release of Save_all_Spotlight.
  
 ## [2.3.0] - 2022-11-07
  
