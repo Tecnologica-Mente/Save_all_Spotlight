@@ -1,6 +1,19 @@
 # Change Log
 This is a full list of changes for each release of Save_all_Spotlight.
  
+## [2.4.0] - 2025-08-05
+ 
+### Added
+ - Save the New Desktop Spotlight UI, which also appears on the Desktop Background and not just on the Windows Lock Screen
+ 
+### Changed
+ - Created separate files with English or Italian user interface
+ 
+### Fixed
+ - Some bugs fixed
+ 
+----------------------------------------------------------------------------------------
+ 
 ## [2.3.0] - 2022-11-07
  
 ### Added
